@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 42 43.9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient);
+        mix-blend-mode: multiply;
+        opacity: .8;
+      }
+
+      .cls-4 {
+        fill: url(#Degradado_sin_nombre_7);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="21" cy="22.9" fx="21" fy="22.9" r="21" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000056"/>
+      <stop offset=".39" stop-color="#7373a2" stop-opacity=".55"/>
+      <stop offset=".78" stop-color="#d8d8e5" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="Degradado_sin_nombre_7" data-name="Degradado sin nombre 7" x1="25.69" y1="4.28" x2="5.01" y2="24.96" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="1" stop-color="#850000"/>
+    </linearGradient>
+  </defs>
+  <g class="cls-2">
+    <g id="Calque_2" data-name="Calque 2">
+      <g id="ELEMENTS">
+        <g>
+          <circle class="cls-3" cx="21" cy="22.9" r="21"/>
+          <circle class="cls-4" cx="15.35" cy="14.62" r="14.62"/>
+          <path class="cls-1" d="M23.18,12.5c0-1.94-1.57-3.51-3.51-3.51H10.69c-1.94,0-3.51,1.57-3.51,3.51v4.18c0,1.94,1.57,3.51,3.51,3.51h8.98c1.94,0,3.51-1.57,3.51-3.51v-4.18Zm-5.28,2.4l-4.03,1.99c-.16,.09-.69-.03-.69-.21v-4.09c0-.18,.54-.3,.7-.21l3.85,2.1c.16,.09,.33,.33,.17,.41Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
